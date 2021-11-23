@@ -2,4 +2,4 @@ I'm an ex-software developer, now (mostly) doing QA. I still dabble in JS & TS, 
 
 Out of the dayjob, I love following emerging areas such as blockchain as well as machine learning - I'm interested, but it is not something I can contribute to.
 
-Rather, I cannot contribute (mush) as of yet. But continuing to explore and follow.
+Rather, I cannot contribute (much) as of yet. But continuing to explore and follow.
